@@ -76,6 +76,7 @@ public class Main {
         System.out.println("При потере в день 500 грамм веса для похудения понадобится " + daysIf500 + " дней.");
         System.out.println("В среднем для похудения понадобится " + averageDays + " день.");
 
+
         // Задача №8
         int salaryMasha = 67760;
         int salaryDenis = 83690;
